@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### Dive into my coding activity
-[![wakatime](https://wakatime.com/badge/user/80545e3d-81e7-46bd-b7a1-95e96f24de5b.svg)](https://wakatime.com/@80545e3d-81e7-46bd-b7a1-95e96f24de5b)
+[![wakatime](https://wakatime.com/badge/user/043b86c2-8490-4331-9e18-4bc2e3a90d0b.svg)](https://wakatime.com/@043b86c2-8490-4331-9e18-4bc2e3a90d0b)
 
 ### Behold my GitHub achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=oluwaeinstein007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
