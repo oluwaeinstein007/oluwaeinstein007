@@ -1,14 +1,14 @@
 # Hi there 👋
 
+## My GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=oluwaeinstein007)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaeinstein007&langs_count=4)
+
 ### Dive into my coding activity
 [![wakatime](https://wakatime.com/badge/user/018b332c-af82-4068-b108-121208765a5c.svg)](https://wakatime.com/@018b332c-af82-4068-b108-121208765a5c)
 
 ### Behold my GitHub achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=oluwaeinstein007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## My GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=oluwaeinstein007)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaeinstein007&langs_count=4)
 
 <!--
 **oluwaeinstein007/oluwaeinstein007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
