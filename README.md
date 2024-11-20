@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div id="badges" align="center">
-  <a href="[https://www.linkedin.com/in/cofucan](https://www.linkedin.com/in/lanre-sanni-686125ba/)">
+  <a href="https://www.linkedin.com/in/lanre-sanni-686125ba/">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:slanre26@gmail.com">
