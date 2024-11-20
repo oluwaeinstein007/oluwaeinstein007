@@ -1,7 +1,4 @@
 # Hi there 👋 
-<div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=oluwaeinstein007&style=flat-square&color=blue" alt=""/>
-</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lanre-sanni-686125ba/">
