@@ -12,7 +12,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwaeinstein007&count_private=true&hide_border=true&show_icons=true&theme=monokai&bg_color=00000000&)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cofucan&layout=compact&hide=html&size_weight=0.5&count_weight=0.5&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaeinstein007&layout=compact&hide=html&size_weight=0.5&count_weight=0.5&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **oluwaeinstein007/oluwaeinstein007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
