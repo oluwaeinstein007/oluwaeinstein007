@@ -1,5 +1,17 @@
 # Hi there 👋
 
+<div id="badges" align="center">
+  <a href="[https://www.linkedin.com/in/cofucan](https://www.linkedin.com/in/lanre-sanni-686125ba/)">
+    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:slanre26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://twitter.com/lanrecodes">
+    <img src="https://img.shields.io/badge/Twitter-indigo?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 ## My GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=oluwaeinstein007)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaeinstein007&langs_count=4)
