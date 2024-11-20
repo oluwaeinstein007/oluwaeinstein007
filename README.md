@@ -14,7 +14,6 @@
 
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=oluwaeinstein007&style=flat-square&color=blue" alt=""/>
-  [![wakatime](https://wakatime.com/badge/user/018b332c-af82-4068-b108-121208765a5c.svg)](https://wakatime.com/@018b332c-af82-4068-b108-121208765a5c)
 </div>
 
 <div align="center">
