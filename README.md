@@ -21,6 +21,41 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
 </div>
 
+---
+
+## 🚀 About Me  
+I'm a **CTO @ Travel Avatar**, a passionate Laravel Backend Developer, and a mentor empowering the next generation of tech enthusiasts through the **LanreCodes Mentorship Program**. My focus is on building innovative solutions, especially in **healthcare**, **e-commerce**, and **community-driven applications**.  
+
+🌍 **Based in:** Lagos, Nigeria  
+🎓 **Background:** Transitioned from **Theoretical Physics** to Tech  
+
+---
+
+## 🛠 Tech Stack  
+- **Backend:** Laravel, Lumen, Eloquent ORM, PHPUnit  
+- **Frontend:** React Native, JavaScript, TypeScript  
+- **API Integration:** RESTful APIs, JWT Authentication  
+- **Deployment:** Heroku, Railway  
+- **Databases:** MySQL, PostgreSQL  
+- **Tools:** Jira, Trello, GitHub  
+
+---
+
+## ✨ Fun Facts  
+- I’m a **self-taught developer** with 4+ years of experience.  
+- I prefer using **Ionicons** for sleek UI components in React Native.  
+- I rely on **Alert.alert** for error notifications.  
+
+---
+
+## 🌟 Current Projects  
+- **Fashion E-commerce App** 🛍: Dynamic filtering, rich product displays, and multi-image functionality.  
+- **Community App** 🌐: Reward-based user engagement and ad support for admins and users.  
+- **Referral System** 🤝: Simplifying user growth strategies.  
+
+---
+
+
 ## My GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=oluwaeinstein007)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaeinstein007&langs_count=4)
@@ -50,5 +85,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+---
+
+## 🌐 Let's Connect  
+📧 **Email:** [slanre26@gmail.com](mailto:slanre26@gmail.com)  
+📘 **LinkedIn:** [Lanre Sanni](https://www.linkedin.com/in/lanre-sanni-686125ba/)  
+🐦 **Twitter:** [@lanrecodes](https://twitter.com/lanrecodes)  
 
 <a href="https://app.daily.dev/oluwaeinstein"><img src="https://api.daily.dev/devcards/ec9b7462d12442079d4db883cea4b3aa.png?r=lig" width="400" alt="Sanni, Olanrewaju's Dev Card"/></a>
