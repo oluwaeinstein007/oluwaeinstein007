@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hi there! 👋 I'm **Lanre Sanni**  
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lanre-sanni-686125ba/">
@@ -27,7 +27,7 @@
 I'm a **CTO @ Travel Avatar**, a passionate Laravel Backend Developer, and a mentor empowering the next generation of tech enthusiasts through the **LanreCodes Mentorship Program**. My focus is on building innovative solutions, especially in **healthcare**, **e-commerce**, and **community-driven applications**.  
 
 🌍 **Based in:** Lagos, Nigeria  
-🎓 **Background:** Transitioned from **Theoretical Physics** to Tech  
+🎓 **Background:** Started with a background in **Theoretical Physics**, transitioned and now thriving in **Software Engineering!**
 
 ---
 
@@ -37,14 +37,14 @@ I'm a **CTO @ Travel Avatar**, a passionate Laravel Backend Developer, and a men
 - **API Integration:** RESTful APIs, JWT Authentication  
 - **Deployment:** Heroku, Railway  
 - **Databases:** MySQL, PostgreSQL  
-- **Tools:** Jira, Trello, GitHub  
+- **Tools:** Jira, Postman, Trello, GitHub  
 
 ---
 
 ## ✨ Fun Facts  
 - I’m a **self-taught developer** with 4+ years of experience.  
 - I prefer using **Ionicons** for sleek UI components in React Native.  
-- I rely on **Alert.alert** for error notifications.  
+- I’m a **physics nerd** who loves to solve real-world problems with code! 
 
 ---
 
