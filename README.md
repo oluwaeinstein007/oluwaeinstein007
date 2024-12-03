@@ -32,6 +32,11 @@ Driven by a passion for building impactful solutions, I bring over half a decade
 🌍 **Based in:** Lagos, Nigeria  
 🎓 **Background:** Started with a background in **Theoretical Physics**, transitioned and now thriving in **Software Engineering!**
 
+### 🌐 Let's Connect  
+📧 **Email:** [slanre26@gmail.com](mailto:slanre26@gmail.com)  
+📘 **LinkedIn:** [Lanre Sanni](https://www.linkedin.com/in/lanre-sanni-686125ba/)  
+🐦 **Twitter:** [@lanrecodes](https://twitter.com/lanrecodes)  
+
 ---
 
 ## 🛠 Tech Stack  
@@ -44,10 +49,17 @@ Driven by a passion for building impactful solutions, I bring over half a decade
 
 ---
 
-## ✨ Fun Facts  
-- I’m a **self-taught developer** with 4+ years of experience.  
-- I prefer using **Ionicons** for sleek UI components in React Native.  
-- I’m a **physics nerd** who loves to solve real-world problems with code! 
+## ✨ Fun Facts
+- I’m a **self-taught developer** with 4+ years of experience. 💻  
+- Loves experimenting with new technologies and solving real-world problems in creative ways 🌱.  
+- May or may not have ADHD 🌑.  
+- I’m a **physics nerd** who loves to solve real-world problems with code! ⚛️  
+- Real-life **cookie monster**—yum, yum, yum! 🍪  
+- A big fan of **late-night coding sessions** fueled by coffee and creativity ☕🌙.  
+- **Music enthusiast**—I believe great tunes fuel great ideas 🎶.  
+- Always looking for ways to blend **tech** with seamless user experiences and business 🎨💡.  
+- Avid **traveler**—I love exploring new cultures and leveraging tech to make travel easier and more enjoyable 🌍✈️.
+
 
 ---
 
@@ -100,10 +112,5 @@ Here are some ideas to get you started:
 -->
 
 ---
-
-## 🌐 Let's Connect  
-📧 **Email:** [slanre26@gmail.com](mailto:slanre26@gmail.com)  
-📘 **LinkedIn:** [Lanre Sanni](https://www.linkedin.com/in/lanre-sanni-686125ba/)  
-🐦 **Twitter:** [@lanrecodes](https://twitter.com/lanrecodes)  
 
 <a href="https://app.daily.dev/oluwaeinstein"><img src="https://api.daily.dev/devcards/ec9b7462d12442079d4db883cea4b3aa.png?r=lig" width="400" alt="Sanni, Olanrewaju's Dev Card"/></a>
