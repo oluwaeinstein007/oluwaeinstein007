@@ -23,8 +23,11 @@
 
 ---
 
-## 🚀 About Me  
-I'm a **CTO @ Travel Avatar**, a passionate Laravel Backend Developer, and a mentor empowering the next generation of tech enthusiasts through the **LanreCodes Mentorship Program**. My focus is on building innovative solutions, especially in **healthcare**, **e-commerce**, and **community-driven applications**.  
+## 🚀 About Me 
+### 💼 CTO @ Travel Avatar | 🎯 Laravel Backend Developer | 🤝 Mentor 
+Driven by a passion for building impactful solutions, I bring over half a decade of software development experience to the table, specializing in Laravel, React Native, and modern web technologies. My mission is to design and develop scalable, user-focused applications that solve real-world problems, leveraging my expertise in backend development, APIs, and seamless integrations.
+
+🚀 **When I’m not coding:** you’ll find me mentoring aspiring developers through my **LanreCodes Mentorship Program**, or brainstorming innovative ideas in healthcare and OTA (with 2+ years of experience in travel and tours).
 
 🌍 **Based in:** Lagos, Nigeria  
 🎓 **Background:** Started with a background in **Theoretical Physics**, transitioned and now thriving in **Software Engineering!**
@@ -48,10 +51,20 @@ I'm a **CTO @ Travel Avatar**, a passionate Laravel Backend Developer, and a men
 
 ---
 
-## 🌟 Current Projects  
-- **Fashion E-commerce App** 🛍: Dynamic filtering, rich product displays, and multi-image functionality.  
-- **Community App** 🌐: Reward-based user engagement and ad support for admins and users.  
-- **Referral System** 🤝: Simplifying user growth strategies.  
+# 🌟 My Fun Side Projects  
+## 🚀 Highlighted Personal Projects  
+### **[SiteProx GIS API](https://github.com/oluwaeinstein007/Google-GIS-Project)** 🌍 *(May 2024)*  
+**Stack**: Laravel, PHPUnit, Guzzle, Google Matrix  
+- Built a GIS API that calculates optimal travel distances and durations between multiple locations using Google Matrix, helping businesses choose the best site locations based on user proximity.
+
+### **[KeyPal Vault](https://github.com/oluwaeinstein007/KeyPalVault)** 🔑 *(June 2023)*  
+**Stack**: Laravel, MySQL, PHPUnit  
+- Developed an API for managing team secrets securely. It allows super admins to create teams, assign team leads, and securely store passwords, environment variables, and file secrets, all accessible by team members.
+
+### **[AdsNinja](https://github.com/oluwaeinstein007/AdNinja)** 📢 *(June 2023)*  
+**Stack**: Laravel, MySQL, PHPUnit  
+- Created an ad management system that supports role-based permissions, secure Sanctum authentication, content storage via Cloudinary, and automatic ad cleanup. Features advanced ad filtering and multi-currency support for global ad operations.
+
 
 ---
 
