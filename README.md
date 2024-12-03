@@ -62,8 +62,7 @@ Driven by a passion for building impactful solutions, I bring over half a decade
 
 
 ---
-
-# 🌟 My Fun Side Projects  
+ 
 ## 🚀 Highlighted Personal Projects  
 ### **[SiteProx GIS API](https://github.com/oluwaeinstein007/Google-GIS-Project)** 🌍 *(May 2024)*  
 **Stack**: Laravel, PHPUnit, Guzzle, Google Matrix  
