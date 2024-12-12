@@ -84,8 +84,6 @@ Driven by a passion for building impactful solutions, I bring over half a decade
 [![GitHub Streak](https://streak-stats.demolab.com/?user=oluwaeinstein007)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaeinstein007&langs_count=4)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=oluwaeinstein007)](https://git.io/streak-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwaeinstein007&count_private=true&hide_border=true&show_icons=true&theme=monokai&bg_color=00000000&)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwaeinstein007&layout=compact&hide=html&size_weight=0.5&count_weight=0.5&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
